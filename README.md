@@ -13,7 +13,7 @@ This machine learning project predicts the **severity of road traffic accidents*
 
 ## 📊 Dataset
 
-- Source: [Kaggle – UK Road Traffic Accident Dataset](https://www.kaggle.com/datasets/salmaneunus/road-traffic-accident-dataset)
+- Source: Kaggle – UK Road Traffic Accident Dataset
 - License: Public use
 
 ## 📈 Model Results
